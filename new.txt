@@ -1,3 +1,5 @@
 a-apple
 b-ball
 c-call
+d-dog
+e-elephant
